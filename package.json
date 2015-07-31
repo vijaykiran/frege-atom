@@ -1,0 +1,18 @@
+{
+  "name": "frege",
+  "main": "./lib/frege",
+  "version": "0.0.1",
+  "description": "Frege Language Support",
+  "keywords": [ "frege"
+  ],
+  "activationCommands": {
+    "atom-workspace": "frege:toggle"
+  },
+  "repository": "https://github.com/vijaykiran/frege-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
